@@ -39,3 +39,5 @@ module.exports = Object.assign(locations, {
       ? null
       : algoliaAPIKey
 });
+
+//comment created
